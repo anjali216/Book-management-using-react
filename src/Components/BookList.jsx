@@ -32,8 +32,8 @@ const BookList = () => {
                 <th>ISL No</th>
                 <th>Book Name</th>
                 <th>Author Name</th>
-                <th>Edit</th>
-                <th>Delete</th>
+                 {/* <th>Edit</th> */}
+                <th>Delete</th> 
               </tr>
             </thead>
             <tbody>
